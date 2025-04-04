@@ -21,7 +21,8 @@ class BasePage:
             self.driver = driver
         else:
             option = Options()
-            service = Service('/usr/local/bin/chromedriver')
+            option.add_argument("--headless")  # 无头模式，适合 CI 环境
+            service = Service(executable_path="/usr/lib/chromium/chromedriver")
             self.driver = webdriver.Chrome(options=option, service=service)
             self.driver.implicitly_wait(10)
             self.driver.maximize_window()
