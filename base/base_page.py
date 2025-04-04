@@ -20,14 +20,14 @@ class BasePage:
         if driver:
             self.driver = driver
         else:
-            option = Options()
+            options = Options()
             options.add_argument("--headless")
             options.add_argument("--no-sandbox")  # 容器环境必须参数
             options.add_argument("--disable-dev-shm-usage")  # 容器环境必须参数
             
             # 使用检测到的正确路径
             service = Service(executable_path="/usr/bin/chromedriver")
-            self.driver = webdriver.Chrome(options=option, service=service)
+            self.driver = webdriver.Chrome(options=options, service=service)
             self.driver.implicitly_wait(10)
             self.driver.maximize_window()
             try:
