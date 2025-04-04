@@ -1,0 +1,4 @@
+modify_goods_name:
+  - good_name: 'rt3'
+    update_good_name: 'rt3_update'
+    text: '修改成功'

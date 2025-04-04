@@ -1,0 +1,662 @@
+[2025-04-03 14:23:01] [INFO] [util.py]/[line: 12]/[get_file_path] 文件的绝对路径是：/Volumes/software/warehouse/web_automation/taover_po/data/add_goods.yaml 
+[2025-04-03 14:23:01] [INFO] [util.py]/[line: 12]/[get_file_path] 文件的绝对路径是：/Volumes/software/warehouse/web_automation/taover_po/data/search_goods.yaml 
+[2025-04-03 14:23:01] [INFO] [util.py]/[line: 12]/[get_file_path] 文件的绝对路径是：/Volumes/software/warehouse/web_automation/taover_po/data/modify_goods.yaml 
+[2025-04-03 14:23:01] [INFO] [util.py]/[line: 12]/[get_file_path] 文件的绝对路径是：/Volumes/software/warehouse/web_automation/taover_po/data/delete_goods.yaml 
+[2025-04-03 14:23:11] [INFO] [base_page.py]/[line: 32]/[__init__] 添加cookies信息 
+[2025-04-03 14:23:11] [INFO] [base_page.py]/[line: 34]/[__init__] 开始调用...... 
+[2025-04-03 14:23:12] [INFO] [base_page.py]/[line: 60]/[find_ele] 定位方式: xpath, 定位元素: //span[text()="商品管理"] 
+[2025-04-03 14:23:12] [INFO] [base_page.py]/[line: 60]/[find_ele] 定位方式: xpath, 定位元素: //span[text()="商品列表"] 
+[2025-04-03 14:23:14] [INFO] [base_page.py]/[line: 60]/[find_ele] 定位方式: xpath, 定位元素: (//span[text()="添加"])[1] 
+[2025-04-03 14:23:15] [INFO] [base_page.py]/[line: 60]/[find_ele] 定位方式: xpath, 定位元素: //label[@for="goodsName"]/following-sibling::*/*/* 
+[2025-04-03 14:23:15] [INFO] [base_page.py]/[line: 60]/[find_ele] 定位方式: xpath, 定位元素: //label[@for="goodsName"]/following-sibling::*/*/* 
+[2025-04-03 14:23:15] [INFO] [base_page.py]/[line: 60]/[find_ele] 定位方式: css selector, 定位元素: .el-select.inputWidth input 
+[2025-04-03 14:23:16] [INFO] [base_page.py]/[line: 60]/[find_ele] 定位方式: xpath, 定位元素: //span[text()="测吧测试1八爪云仓库1"] 
+[2025-04-03 14:23:16] [INFO] [base_page.py]/[line: 60]/[find_ele] 定位方式: xpath, 定位元素: //span[text()="提交"] 
+[2025-04-03 14:23:17] [INFO] [base_page.py]/[line: 60]/[find_ele] 定位方式: xpath, 定位元素: //p[text()="创建成功"] 
+[2025-04-03 14:23:17] [INFO] [util.py]/[line: 46]/[save_source_data] 资源保存的绝对路径：/Volumes/software/warehouse/web_automation/taover_po/images/20250403142317.png 
+[2025-04-03 14:23:17] [INFO] [shop_list_page.py]/[line: 38]/[verify_add_shop_pass] 添加商品成功，截图路径：/Volumes/software/warehouse/web_automation/taover_po/images/20250403142317.png 
+[2025-04-03 14:23:17] [INFO] [base_page.py]/[line: 134]/[quit] 结束调用........ 
+[2025-04-03 14:26:11] [INFO] [util.py]/[line: 12]/[get_file_path] 文件的绝对路径是：/Volumes/software/warehouse/web_automation/taover_po/data/add_goods.yaml 
+[2025-04-03 14:26:11] [INFO] [util.py]/[line: 12]/[get_file_path] 文件的绝对路径是：/Volumes/software/warehouse/web_automation/taover_po/data/search_goods.yaml 
+[2025-04-03 14:26:11] [INFO] [util.py]/[line: 12]/[get_file_path] 文件的绝对路径是：/Volumes/software/warehouse/web_automation/taover_po/data/modify_goods.yaml 
+[2025-04-03 14:26:11] [INFO] [util.py]/[line: 12]/[get_file_path] 文件的绝对路径是：/Volumes/software/warehouse/web_automation/taover_po/data/delete_goods.yaml 
+[2025-04-03 14:26:20] [INFO] [base_page.py]/[line: 32]/[__init__] 添加cookies信息 
+[2025-04-03 14:26:20] [INFO] [base_page.py]/[line: 34]/[__init__] 开始调用...... 
+[2025-04-03 14:26:22] [INFO] [base_page.py]/[line: 60]/[find_ele] 定位方式: xpath, 定位元素: //span[text()="商品管理"] 
+[2025-04-03 14:26:22] [INFO] [base_page.py]/[line: 60]/[find_ele] 定位方式: xpath, 定位元素: //span[text()="商品列表"] 
+[2025-04-03 14:26:25] [INFO] [base_page.py]/[line: 60]/[find_ele] 定位方式: xpath, 定位元素: (//span[text()="添加"])[1] 
+[2025-04-03 14:26:25] [INFO] [base_page.py]/[line: 60]/[find_ele] 定位方式: xpath, 定位元素: //label[@for="goodsName"]/following-sibling::*/*/* 
+[2025-04-03 14:26:25] [INFO] [base_page.py]/[line: 60]/[find_ele] 定位方式: xpath, 定位元素: //label[@for="goodsName"]/following-sibling::*/*/* 
+[2025-04-03 14:26:26] [INFO] [base_page.py]/[line: 60]/[find_ele] 定位方式: css selector, 定位元素: .el-select.inputWidth input 
+[2025-04-03 14:26:26] [INFO] [base_page.py]/[line: 60]/[find_ele] 定位方式: xpath, 定位元素: //span[text()="测吧测试1八爪云仓库1"] 
+[2025-04-03 14:26:26] [INFO] [base_page.py]/[line: 60]/[find_ele] 定位方式: xpath, 定位元素: //span[text()="提交"] 
+[2025-04-03 14:26:27] [INFO] [base_page.py]/[line: 60]/[find_ele] 定位方式: xpath, 定位元素: //p[text()="创建成功"] 
+[2025-04-03 14:26:27] [INFO] [util.py]/[line: 46]/[save_source_data] 资源保存的绝对路径：/Volumes/software/warehouse/web_automation/taover_po/images/20250403142627.png 
+[2025-04-03 14:26:27] [INFO] [shop_list_page.py]/[line: 38]/[verify_add_shop_pass] 添加商品成功，截图路径：/Volumes/software/warehouse/web_automation/taover_po/images/20250403142627.png 
+[2025-04-03 14:26:28] [INFO] [base_page.py]/[line: 134]/[quit] 结束调用........ 
+[2025-04-03 14:26:36] [INFO] [base_page.py]/[line: 32]/[__init__] 添加cookies信息 
+[2025-04-03 14:26:37] [INFO] [base_page.py]/[line: 34]/[__init__] 开始调用...... 
+[2025-04-03 14:26:39] [INFO] [base_page.py]/[line: 60]/[find_ele] 定位方式: xpath, 定位元素: //span[text()="商品管理"] 
+[2025-04-03 14:26:39] [INFO] [base_page.py]/[line: 60]/[find_ele] 定位方式: xpath, 定位元素: //span[text()="商品列表"] 
+[2025-04-03 14:26:41] [INFO] [base_page.py]/[line: 60]/[find_ele] 定位方式: xpath, 定位元素: //input[@placeholder="请输入商品名称"] 
+[2025-04-03 14:26:41] [INFO] [base_page.py]/[line: 60]/[find_ele] 定位方式: xpath, 定位元素: //input[@placeholder="请输入商品名称"] 
+[2025-04-03 14:26:41] [INFO] [base_page.py]/[line: 60]/[find_ele] 定位方式: xpath, 定位元素: //span[text()="查询"] 
+[2025-04-03 14:26:43] [INFO] [base_page.py]/[line: 134]/[quit] 结束调用........ 
+[2025-04-03 14:26:52] [INFO] [base_page.py]/[line: 32]/[__init__] 添加cookies信息 
+[2025-04-03 14:26:52] [INFO] [base_page.py]/[line: 34]/[__init__] 开始调用...... 
+[2025-04-03 14:26:53] [INFO] [base_page.py]/[line: 60]/[find_ele] 定位方式: xpath, 定位元素: //span[text()="商品管理"] 
+[2025-04-03 14:26:53] [INFO] [base_page.py]/[line: 60]/[find_ele] 定位方式: xpath, 定位元素: //span[text()="商品列表"] 
+[2025-04-03 14:26:55] [INFO] [base_page.py]/[line: 60]/[find_ele] 定位方式: xpath, 定位元素: //input[@placeholder="请输入商品名称"] 
+[2025-04-03 14:26:55] [INFO] [base_page.py]/[line: 60]/[find_ele] 定位方式: xpath, 定位元素: //input[@placeholder="请输入商品名称"] 
+[2025-04-03 14:26:56] [INFO] [base_page.py]/[line: 60]/[find_ele] 定位方式: xpath, 定位元素: //span[text()="查询"] 
+[2025-04-03 14:27:01] [INFO] [base_page.py]/[line: 60]/[find_ele] 定位方式: css selector, 定位元素: .el-icon-close.inline-block.absolute 
+[2025-04-03 14:27:01] [INFO] [base_page.py]/[line: 60]/[find_ele] 定位方式: xpath, 定位元素: //span[text()="修改"] 
+[2025-04-03 14:27:06] [INFO] [base_page.py]/[line: 60]/[find_ele] 定位方式: css selector, 定位元素: .el-form-item.mt3 div input 
+[2025-04-03 14:27:06] [INFO] [base_page.py]/[line: 60]/[find_ele] 定位方式: css selector, 定位元素: .el-form-item.mt3 div input 
+[2025-04-03 14:27:06] [INFO] [base_page.py]/[line: 60]/[find_ele] 定位方式: xpath, 定位元素: //span[text()="提交"] 
+[2025-04-03 14:27:07] [INFO] [base_page.py]/[line: 60]/[find_ele] 定位方式: xpath, 定位元素: //p[text()="修改成功"] 
+[2025-04-03 14:27:07] [INFO] [util.py]/[line: 46]/[save_source_data] 资源保存的绝对路径：/Volumes/software/warehouse/web_automation/taover_po/images/20250403142707.png 
+[2025-04-03 14:27:07] [INFO] [util.py]/[line: 46]/[save_source_data] 资源保存的绝对路径：/Volumes/software/warehouse/web_automation/taover_po/images/20250403142707.png 
+[2025-04-03 14:27:07] [INFO] [shop_list_page.py]/[line: 83]/[verify_modify_shop_pass] 修改商品成功，截图路径：/Volumes/software/warehouse/web_automation/taover_po/images/20250403142707.png 
+[2025-04-03 14:27:07] [INFO] [base_page.py]/[line: 134]/[quit] 结束调用........ 
+[2025-04-03 14:27:15] [INFO] [base_page.py]/[line: 32]/[__init__] 添加cookies信息 
+[2025-04-03 14:27:16] [INFO] [base_page.py]/[line: 34]/[__init__] 开始调用...... 
+[2025-04-03 14:27:16] [INFO] [base_page.py]/[line: 60]/[find_ele] 定位方式: xpath, 定位元素: //span[text()="商品管理"] 
+[2025-04-03 14:27:16] [INFO] [base_page.py]/[line: 60]/[find_ele] 定位方式: xpath, 定位元素: //span[text()="商品列表"] 
+[2025-04-03 14:27:19] [INFO] [base_page.py]/[line: 60]/[find_ele] 定位方式: xpath, 定位元素: //input[@placeholder="请输入商品名称"] 
+[2025-04-03 14:27:19] [INFO] [base_page.py]/[line: 60]/[find_ele] 定位方式: xpath, 定位元素: //input[@placeholder="请输入商品名称"] 
+[2025-04-03 14:27:20] [INFO] [base_page.py]/[line: 60]/[find_ele] 定位方式: xpath, 定位元素: //span[text()="查询"] 
+[2025-04-03 14:27:25] [INFO] [base_page.py]/[line: 60]/[find_ele] 定位方式: xpath, 定位元素: //span[text()="下架"] 
+[2025-04-03 14:27:25] [INFO] [base_page.py]/[line: 60]/[find_ele] 定位方式: xpath, 定位元素: //span[text()="提交"] 
+[2025-04-03 14:27:27] [INFO] [base_page.py]/[line: 60]/[find_ele] 定位方式: xpath, 定位元素: //p[text()="操作成功"] 
+[2025-04-03 14:27:27] [INFO] [util.py]/[line: 46]/[save_source_data] 资源保存的绝对路径：/Volumes/software/warehouse/web_automation/taover_po/images/20250403142727.png 
+[2025-04-03 14:27:27] [INFO] [util.py]/[line: 46]/[save_source_data] 资源保存的绝对路径：/Volumes/software/warehouse/web_automation/taover_po/images/20250403142727.png 
+[2025-04-03 14:27:27] [INFO] [shop_list_page.py]/[line: 93]/[delete_good] 删除商品成功，截图路径：/Volumes/software/warehouse/web_automation/taover_po/images/20250403142727.png 
+[2025-04-03 14:27:27] [INFO] [base_page.py]/[line: 134]/[quit] 结束调用........ 
+[2025-04-03 15:44:37] [INFO] [util.py]/[line: 12]/[get_file_path] 文件的绝对路径是：/Volumes/software/warehouse/web_automation/taover_po/data/add_goods.yaml 
+[2025-04-03 15:44:37] [INFO] [util.py]/[line: 12]/[get_file_path] 文件的绝对路径是：/Volumes/software/warehouse/web_automation/taover_po/data/search_goods.yaml 
+[2025-04-03 15:44:37] [INFO] [util.py]/[line: 12]/[get_file_path] 文件的绝对路径是：/Volumes/software/warehouse/web_automation/taover_po/data/modify_goods.yaml 
+[2025-04-03 15:44:37] [INFO] [util.py]/[line: 12]/[get_file_path] 文件的绝对路径是：/Volumes/software/warehouse/web_automation/taover_po/data/delete_goods.yaml 
+[2025-04-03 15:44:46] [INFO] [base_page.py]/[line: 33]/[__init__] 添加cookies信息 
+[2025-04-03 15:44:47] [INFO] [base_page.py]/[line: 35]/[__init__] 开始调用...... 
+[2025-04-03 15:44:47] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //span[text()="商品管理"] 
+[2025-04-03 15:44:50] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //span[text()="商品列表"] 
+[2025-04-03 15:44:50] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: (//span[text()="添加"])[1] 
+[2025-04-03 15:44:52] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //label[@for="goodsName"]/following-sibling::*/*/* 
+[2025-04-03 15:44:52] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //label[@for="goodsName"]/following-sibling::*/*/* 
+[2025-04-03 15:44:53] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: css selector, 定位元素: .el-select.inputWidth input 
+[2025-04-03 15:44:53] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //span[text()="测吧测试1八爪云仓库1"] 
+[2025-04-03 15:44:54] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //span[text()="提交"] 
+[2025-04-03 15:44:56] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //p[text()="创建成功"] 
+[2025-04-03 15:44:56] [INFO] [util.py]/[line: 46]/[save_source_data] 资源保存的绝对路径：/Volumes/software/warehouse/web_automation/taover_po/images/20250403154456.png 
+[2025-04-03 15:44:56] [INFO] [shop_list_page.py]/[line: 38]/[verify_add_shop_pass] 添加商品成功，截图路径：/Volumes/software/warehouse/web_automation/taover_po/images/20250403154456.png 
+[2025-04-03 15:44:56] [INFO] [base_page.py]/[line: 139]/[quit] 结束调用........ 
+[2025-04-03 15:56:04] [INFO] [util.py]/[line: 12]/[get_file_path] 文件的绝对路径是：/Volumes/software/warehouse/web_automation/taover_po/data/add_goods.yaml 
+[2025-04-03 15:56:04] [INFO] [util.py]/[line: 12]/[get_file_path] 文件的绝对路径是：/Volumes/software/warehouse/web_automation/taover_po/data/search_goods.yaml 
+[2025-04-03 15:56:04] [INFO] [util.py]/[line: 12]/[get_file_path] 文件的绝对路径是：/Volumes/software/warehouse/web_automation/taover_po/data/modify_goods.yaml 
+[2025-04-03 15:56:04] [INFO] [util.py]/[line: 12]/[get_file_path] 文件的绝对路径是：/Volumes/software/warehouse/web_automation/taover_po/data/delete_goods.yaml 
+[2025-04-03 15:56:12] [INFO] [base_page.py]/[line: 33]/[__init__] 添加cookies信息 
+[2025-04-03 15:56:12] [INFO] [base_page.py]/[line: 35]/[__init__] 开始调用...... 
+[2025-04-03 15:56:12] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //span[text()="商品管理"] 
+[2025-04-03 15:56:12] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //span[text()="商品管理"] 
+[2025-04-03 15:56:13] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //span[text()="商品列表"] 
+[2025-04-03 15:56:13] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //span[text()="商品列表"] 
+[2025-04-03 15:56:13] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: (//span[text()="添加"])[1] 
+[2025-04-03 15:56:13] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: (//span[text()="添加"])[1] 
+[2025-04-03 15:56:16] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //label[@for="goodsName"]/following-sibling::*/*/* 
+[2025-04-03 15:56:16] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //label[@for="goodsName"]/following-sibling::*/*/* 
+[2025-04-03 15:56:16] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //label[@for="goodsName"]/following-sibling::*/*/* 
+[2025-04-03 15:56:16] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: css selector, 定位元素: .el-select.inputWidth input 
+[2025-04-03 15:56:16] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: css selector, 定位元素: .el-select.inputWidth input 
+[2025-04-03 15:56:16] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //span[text()="测吧测试1八爪云仓库1111"] 
+[2025-04-03 15:56:16] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //span[text()="测吧测试1八爪云仓库1111"] 
+[2025-04-03 15:56:36] [WARNING] [error_popups.py]/[line: 16]/[run] 没有找到元素Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()="测吧测试1八爪云仓库1111"]"}
+  (Session info: chrome=134.0.6998.45); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000102a17b78 cxxbridge1$str$ptr + 2778912
+1   chromedriver                        0x0000000102a101b0 cxxbridge1$str$ptr + 2747736
+2   chromedriver                        0x0000000102565e24 cxxbridge1$string$len + 92932
+3   chromedriver                        0x00000001025ad158 cxxbridge1$string$len + 384568
+4   chromedriver                        0x00000001025ee500 cxxbridge1$string$len + 651744
+5   chromedriver                        0x00000001025a12e4 cxxbridge1$string$len + 335812
+6   chromedriver                        0x00000001029ddd04 cxxbridge1$str$ptr + 2541740
+7   chromedriver                        0x00000001029e0fc8 cxxbridge1$str$ptr + 2554736
+8   chromedriver                        0x00000001029bea44 cxxbridge1$str$ptr + 2414060
+9   chromedriver                        0x00000001029e1828 cxxbridge1$str$ptr + 2556880
+10  chromedriver                        0x00000001029af998 cxxbridge1$str$ptr + 2352448
+11  chromedriver                        0x0000000102a003a4 cxxbridge1$str$ptr + 2682700
+12  chromedriver                        0x0000000102a0052c cxxbridge1$str$ptr + 2683092
+13  chromedriver                        0x0000000102a0fe24 cxxbridge1$str$ptr + 2746828
+14  libsystem_pthread.dylib             0x000000018eca02e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018ec9b0fc thread_start + 8
+，定位方式: xpath, 定位元素: //span[text()="测吧测试1八爪云仓库1111"] 
+[2025-04-03 15:56:36] [INFO] [util.py]/[line: 46]/[save_source_data] 资源保存的绝对路径：/Volumes/software/warehouse/web_automation/taover_po/images/20250403155636.png 
+[2025-04-03 15:56:36] [WARNING] [error_popups.py]/[line: 16]/[run] 没有找到元素Attach.file() got an unexpected keyword argument 'image_path'，定位方式: xpath, 定位元素: //span[text()="测吧测试1八爪云仓库1111"] 
+[2025-04-03 15:56:36] [INFO] [util.py]/[line: 46]/[save_source_data] 资源保存的绝对路径：/Volumes/software/warehouse/web_automation/taover_po/images/20250403155636.png 
+[2025-04-03 15:56:37] [INFO] [base_page.py]/[line: 145]/[quit] 结束调用........ 
+[2025-04-03 15:56:44] [INFO] [base_page.py]/[line: 33]/[__init__] 添加cookies信息 
+[2025-04-03 15:56:44] [INFO] [base_page.py]/[line: 35]/[__init__] 开始调用...... 
+[2025-04-03 15:56:44] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //span[text()="商品管理"] 
+[2025-04-03 15:56:44] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //span[text()="商品管理"] 
+[2025-04-03 15:56:45] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //span[text()="商品列表"] 
+[2025-04-03 15:56:45] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //span[text()="商品列表"] 
+[2025-04-03 15:56:45] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: (//span[text()="添加"])[1] 
+[2025-04-03 15:56:45] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: (//span[text()="添加"])[1] 
+[2025-04-03 15:56:48] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //label[@for="goodsName"]/following-sibling::*/*/* 
+[2025-04-03 15:56:48] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //label[@for="goodsName"]/following-sibling::*/*/* 
+[2025-04-03 15:56:48] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //label[@for="goodsName"]/following-sibling::*/*/* 
+[2025-04-03 15:56:48] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: css selector, 定位元素: .el-select.inputWidth input 
+[2025-04-03 15:56:48] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: css selector, 定位元素: .el-select.inputWidth input 
+[2025-04-03 15:56:48] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //span[text()="测吧测试1八爪云仓库1111"] 
+[2025-04-03 15:56:48] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //span[text()="测吧测试1八爪云仓库1111"] 
+[2025-04-03 15:57:08] [WARNING] [error_popups.py]/[line: 16]/[run] 没有找到元素Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()="测吧测试1八爪云仓库1111"]"}
+  (Session info: chrome=134.0.6998.45); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001054d7b78 cxxbridge1$str$ptr + 2778912
+1   chromedriver                        0x00000001054d01b0 cxxbridge1$str$ptr + 2747736
+2   chromedriver                        0x0000000105025e24 cxxbridge1$string$len + 92932
+3   chromedriver                        0x000000010506d158 cxxbridge1$string$len + 384568
+4   chromedriver                        0x00000001050ae500 cxxbridge1$string$len + 651744
+5   chromedriver                        0x00000001050612e4 cxxbridge1$string$len + 335812
+6   chromedriver                        0x000000010549dd04 cxxbridge1$str$ptr + 2541740
+7   chromedriver                        0x00000001054a0fc8 cxxbridge1$str$ptr + 2554736
+8   chromedriver                        0x000000010547ea44 cxxbridge1$str$ptr + 2414060
+9   chromedriver                        0x00000001054a1828 cxxbridge1$str$ptr + 2556880
+10  chromedriver                        0x000000010546f998 cxxbridge1$str$ptr + 2352448
+11  chromedriver                        0x00000001054c03a4 cxxbridge1$str$ptr + 2682700
+12  chromedriver                        0x00000001054c052c cxxbridge1$str$ptr + 2683092
+13  chromedriver                        0x00000001054cfe24 cxxbridge1$str$ptr + 2746828
+14  libsystem_pthread.dylib             0x000000018eca02e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018ec9b0fc thread_start + 8
+，定位方式: xpath, 定位元素: //span[text()="测吧测试1八爪云仓库1111"] 
+[2025-04-03 15:57:08] [INFO] [util.py]/[line: 46]/[save_source_data] 资源保存的绝对路径：/Volumes/software/warehouse/web_automation/taover_po/images/20250403155708.png 
+[2025-04-03 15:57:09] [WARNING] [error_popups.py]/[line: 16]/[run] 没有找到元素Attach.file() got an unexpected keyword argument 'image_path'，定位方式: xpath, 定位元素: //span[text()="测吧测试1八爪云仓库1111"] 
+[2025-04-03 15:57:09] [INFO] [util.py]/[line: 46]/[save_source_data] 资源保存的绝对路径：/Volumes/software/warehouse/web_automation/taover_po/images/20250403155709.png 
+[2025-04-03 15:57:09] [INFO] [base_page.py]/[line: 145]/[quit] 结束调用........ 
+[2025-04-03 15:57:17] [INFO] [base_page.py]/[line: 33]/[__init__] 添加cookies信息 
+[2025-04-03 15:57:17] [INFO] [base_page.py]/[line: 35]/[__init__] 开始调用...... 
+[2025-04-03 15:57:17] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //span[text()="商品管理"] 
+[2025-04-03 15:57:17] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //span[text()="商品管理"] 
+[2025-04-03 15:57:18] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //span[text()="商品列表"] 
+[2025-04-03 15:57:18] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //span[text()="商品列表"] 
+[2025-04-03 15:57:19] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: (//span[text()="添加"])[1] 
+[2025-04-03 15:57:19] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: (//span[text()="添加"])[1] 
+[2025-04-03 15:57:21] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //label[@for="goodsName"]/following-sibling::*/*/* 
+[2025-04-03 15:57:21] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //label[@for="goodsName"]/following-sibling::*/*/* 
+[2025-04-03 15:57:21] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //label[@for="goodsName"]/following-sibling::*/*/* 
+[2025-04-03 15:57:21] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: css selector, 定位元素: .el-select.inputWidth input 
+[2025-04-03 15:57:21] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: css selector, 定位元素: .el-select.inputWidth input 
+[2025-04-03 15:57:21] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //span[text()="测吧测试1八爪云仓库1111"] 
+[2025-04-03 15:57:21] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //span[text()="测吧测试1八爪云仓库1111"] 
+[2025-04-03 15:57:41] [WARNING] [error_popups.py]/[line: 16]/[run] 没有找到元素Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()="测吧测试1八爪云仓库1111"]"}
+  (Session info: chrome=134.0.6998.45); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001029e7b78 cxxbridge1$str$ptr + 2778912
+1   chromedriver                        0x00000001029e01b0 cxxbridge1$str$ptr + 2747736
+2   chromedriver                        0x0000000102535e24 cxxbridge1$string$len + 92932
+3   chromedriver                        0x000000010257d158 cxxbridge1$string$len + 384568
+4   chromedriver                        0x00000001025be500 cxxbridge1$string$len + 651744
+5   chromedriver                        0x00000001025712e4 cxxbridge1$string$len + 335812
+6   chromedriver                        0x00000001029add04 cxxbridge1$str$ptr + 2541740
+7   chromedriver                        0x00000001029b0fc8 cxxbridge1$str$ptr + 2554736
+8   chromedriver                        0x000000010298ea44 cxxbridge1$str$ptr + 2414060
+9   chromedriver                        0x00000001029b1828 cxxbridge1$str$ptr + 2556880
+10  chromedriver                        0x000000010297f998 cxxbridge1$str$ptr + 2352448
+11  chromedriver                        0x00000001029d03a4 cxxbridge1$str$ptr + 2682700
+12  chromedriver                        0x00000001029d052c cxxbridge1$str$ptr + 2683092
+13  chromedriver                        0x00000001029dfe24 cxxbridge1$str$ptr + 2746828
+14  libsystem_pthread.dylib             0x000000018eca02e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018ec9b0fc thread_start + 8
+，定位方式: xpath, 定位元素: //span[text()="测吧测试1八爪云仓库1111"] 
+[2025-04-03 15:57:41] [INFO] [util.py]/[line: 46]/[save_source_data] 资源保存的绝对路径：/Volumes/software/warehouse/web_automation/taover_po/images/20250403155741.png 
+[2025-04-03 15:57:42] [WARNING] [error_popups.py]/[line: 16]/[run] 没有找到元素Attach.file() got an unexpected keyword argument 'image_path'，定位方式: xpath, 定位元素: //span[text()="测吧测试1八爪云仓库1111"] 
+[2025-04-03 15:57:42] [INFO] [util.py]/[line: 46]/[save_source_data] 资源保存的绝对路径：/Volumes/software/warehouse/web_automation/taover_po/images/20250403155742.png 
+[2025-04-03 15:57:46] [INFO] [base_page.py]/[line: 145]/[quit] 结束调用........ 
+[2025-04-03 15:57:56] [INFO] [base_page.py]/[line: 33]/[__init__] 添加cookies信息 
+[2025-04-03 15:57:56] [INFO] [base_page.py]/[line: 35]/[__init__] 开始调用...... 
+[2025-04-03 15:57:56] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //span[text()="商品管理"] 
+[2025-04-03 15:57:56] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //span[text()="商品管理"] 
+[2025-04-03 15:57:57] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //span[text()="商品列表"] 
+[2025-04-03 15:57:57] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //span[text()="商品列表"] 
+[2025-04-03 15:57:57] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: (//span[text()="添加"])[1] 
+[2025-04-03 15:57:57] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: (//span[text()="添加"])[1] 
+[2025-04-03 15:58:00] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //label[@for="goodsName"]/following-sibling::*/*/* 
+[2025-04-03 15:58:00] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //label[@for="goodsName"]/following-sibling::*/*/* 
+[2025-04-03 15:58:00] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //label[@for="goodsName"]/following-sibling::*/*/* 
+[2025-04-03 15:58:01] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: css selector, 定位元素: .el-select.inputWidth input 
+[2025-04-03 15:58:01] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: css selector, 定位元素: .el-select.inputWidth input 
+[2025-04-03 15:58:01] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //span[text()="测吧测试1八爪云仓库1111"] 
+[2025-04-03 15:58:01] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //span[text()="测吧测试1八爪云仓库1111"] 
+[2025-04-03 15:58:21] [WARNING] [error_popups.py]/[line: 16]/[run] 没有找到元素Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()="测吧测试1八爪云仓库1111"]"}
+  (Session info: chrome=134.0.6998.45); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000101023b78 cxxbridge1$str$ptr + 2778912
+1   chromedriver                        0x000000010101c1b0 cxxbridge1$str$ptr + 2747736
+2   chromedriver                        0x0000000100b71e24 cxxbridge1$string$len + 92932
+3   chromedriver                        0x0000000100bb9158 cxxbridge1$string$len + 384568
+4   chromedriver                        0x0000000100bfa500 cxxbridge1$string$len + 651744
+5   chromedriver                        0x0000000100bad2e4 cxxbridge1$string$len + 335812
+6   chromedriver                        0x0000000100fe9d04 cxxbridge1$str$ptr + 2541740
+7   chromedriver                        0x0000000100fecfc8 cxxbridge1$str$ptr + 2554736
+8   chromedriver                        0x0000000100fcaa44 cxxbridge1$str$ptr + 2414060
+9   chromedriver                        0x0000000100fed828 cxxbridge1$str$ptr + 2556880
+10  chromedriver                        0x0000000100fbb998 cxxbridge1$str$ptr + 2352448
+11  chromedriver                        0x000000010100c3a4 cxxbridge1$str$ptr + 2682700
+12  chromedriver                        0x000000010100c52c cxxbridge1$str$ptr + 2683092
+13  chromedriver                        0x000000010101be24 cxxbridge1$str$ptr + 2746828
+14  libsystem_pthread.dylib             0x000000018eca02e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018ec9b0fc thread_start + 8
+，定位方式: xpath, 定位元素: //span[text()="测吧测试1八爪云仓库1111"] 
+[2025-04-03 15:58:21] [INFO] [util.py]/[line: 46]/[save_source_data] 资源保存的绝对路径：/Volumes/software/warehouse/web_automation/taover_po/images/20250403155821.png 
+[2025-04-03 15:58:21] [WARNING] [error_popups.py]/[line: 16]/[run] 没有找到元素Attach.file() got an unexpected keyword argument 'image_path'，定位方式: xpath, 定位元素: //span[text()="测吧测试1八爪云仓库1111"] 
+[2025-04-03 15:58:21] [INFO] [util.py]/[line: 46]/[save_source_data] 资源保存的绝对路径：/Volumes/software/warehouse/web_automation/taover_po/images/20250403155821.png 
+[2025-04-03 15:58:21] [INFO] [base_page.py]/[line: 145]/[quit] 结束调用........ 
+[2025-04-03 16:03:11] [INFO] [util.py]/[line: 12]/[get_file_path] 文件的绝对路径是：/Volumes/software/warehouse/web_automation/taover_po/data/add_goods.yaml 
+[2025-04-03 16:03:11] [INFO] [util.py]/[line: 12]/[get_file_path] 文件的绝对路径是：/Volumes/software/warehouse/web_automation/taover_po/data/search_goods.yaml 
+[2025-04-03 16:03:11] [INFO] [util.py]/[line: 12]/[get_file_path] 文件的绝对路径是：/Volumes/software/warehouse/web_automation/taover_po/data/modify_goods.yaml 
+[2025-04-03 16:03:11] [INFO] [util.py]/[line: 12]/[get_file_path] 文件的绝对路径是：/Volumes/software/warehouse/web_automation/taover_po/data/delete_goods.yaml 
+[2025-04-03 16:03:18] [INFO] [base_page.py]/[line: 33]/[__init__] 添加cookies信息 
+[2025-04-03 16:03:18] [INFO] [base_page.py]/[line: 35]/[__init__] 开始调用...... 
+[2025-04-03 16:03:18] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //span[text()="商品管理"] 
+[2025-04-03 16:03:18] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //span[text()="商品管理"] 
+[2025-04-03 16:03:19] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //span[text()="商品列表"] 
+[2025-04-03 16:03:19] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //span[text()="商品列表"] 
+[2025-04-03 16:03:20] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: (//span[text()="添加"])[1] 
+[2025-04-03 16:03:20] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: (//span[text()="添加"])[1] 
+[2025-04-03 16:03:23] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //label[@for="goodsName"]/following-sibling::*/*/* 
+[2025-04-03 16:03:23] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //label[@for="goodsName"]/following-sibling::*/*/* 
+[2025-04-03 16:03:23] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //label[@for="goodsName"]/following-sibling::*/*/* 
+[2025-04-03 16:03:23] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: css selector, 定位元素: .el-select.inputWidth input 
+[2025-04-03 16:03:23] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: css selector, 定位元素: .el-select.inputWidth input 
+[2025-04-03 16:03:23] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //span[text()="测吧测试1八爪云仓库1"] 
+[2025-04-03 16:03:23] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //span[text()="测吧测试1八爪云仓库1"] 
+[2025-04-03 16:03:26] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: css selector, 定位元素: .el-input__inner 
+[2025-04-03 16:03:26] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: css selector, 定位元素: .el-input__inner 
+[2025-04-03 16:03:26] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //span[text()="提交"] 
+[2025-04-03 16:03:26] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //span[text()="提交"] 
+[2025-04-03 16:03:27] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //p[text()="创建成功"] 
+[2025-04-03 16:03:27] [INFO] [util.py]/[line: 46]/[save_source_data] 资源保存的绝对路径：/Volumes/software/warehouse/web_automation/taover_po/images/20250403160327.png 
+[2025-04-03 16:03:27] [INFO] [shop_list_page.py]/[line: 38]/[verify_add_shop_pass] 添加商品成功，截图路径：/Volumes/software/warehouse/web_automation/taover_po/images/20250403160327.png 
+[2025-04-03 16:03:27] [INFO] [base_page.py]/[line: 145]/[quit] 结束调用........ 
+[2025-04-03 16:03:55] [INFO] [util.py]/[line: 12]/[get_file_path] 文件的绝对路径是：/Volumes/software/warehouse/web_automation/taover_po/data/add_goods.yaml 
+[2025-04-03 16:03:55] [INFO] [util.py]/[line: 12]/[get_file_path] 文件的绝对路径是：/Volumes/software/warehouse/web_automation/taover_po/data/search_goods.yaml 
+[2025-04-03 16:03:55] [INFO] [util.py]/[line: 12]/[get_file_path] 文件的绝对路径是：/Volumes/software/warehouse/web_automation/taover_po/data/modify_goods.yaml 
+[2025-04-03 16:03:55] [INFO] [util.py]/[line: 12]/[get_file_path] 文件的绝对路径是：/Volumes/software/warehouse/web_automation/taover_po/data/delete_goods.yaml 
+[2025-04-03 16:04:04] [INFO] [base_page.py]/[line: 33]/[__init__] 添加cookies信息 
+[2025-04-03 16:04:04] [INFO] [base_page.py]/[line: 35]/[__init__] 开始调用...... 
+[2025-04-03 16:04:04] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //span[text()="商品管理"] 
+[2025-04-03 16:04:04] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //span[text()="商品管理"] 
+[2025-04-03 16:04:06] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //span[text()="商品列表"] 
+[2025-04-03 16:04:06] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //span[text()="商品列表"] 
+[2025-04-03 16:04:06] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: (//span[text()="添加"])[1] 
+[2025-04-03 16:04:06] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: (//span[text()="添加"])[1] 
+[2025-04-03 16:04:10] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //label[@for="goodsName"]/following-sibling::*/*/* 
+[2025-04-03 16:04:10] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //label[@for="goodsName"]/following-sibling::*/*/* 
+[2025-04-03 16:04:10] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //label[@for="goodsName"]/following-sibling::*/*/* 
+[2025-04-03 16:04:10] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: css selector, 定位元素: .el-select.inputWidth input 
+[2025-04-03 16:04:10] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: css selector, 定位元素: .el-select.inputWidth input 
+[2025-04-03 16:04:10] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //span[text()="测吧测试1八爪云仓库12222"] 
+[2025-04-03 16:04:10] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //span[text()="测吧测试1八爪云仓库12222"] 
+[2025-04-03 16:04:30] [WARNING] [error_popups.py]/[line: 16]/[run] 没有找到元素Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()="测吧测试1八爪云仓库12222"]"}
+  (Session info: chrome=134.0.6998.45); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000102c07b78 cxxbridge1$str$ptr + 2778912
+1   chromedriver                        0x0000000102c001b0 cxxbridge1$str$ptr + 2747736
+2   chromedriver                        0x0000000102755e24 cxxbridge1$string$len + 92932
+3   chromedriver                        0x000000010279d158 cxxbridge1$string$len + 384568
+4   chromedriver                        0x00000001027de500 cxxbridge1$string$len + 651744
+5   chromedriver                        0x00000001027912e4 cxxbridge1$string$len + 335812
+6   chromedriver                        0x0000000102bcdd04 cxxbridge1$str$ptr + 2541740
+7   chromedriver                        0x0000000102bd0fc8 cxxbridge1$str$ptr + 2554736
+8   chromedriver                        0x0000000102baea44 cxxbridge1$str$ptr + 2414060
+9   chromedriver                        0x0000000102bd1828 cxxbridge1$str$ptr + 2556880
+10  chromedriver                        0x0000000102b9f998 cxxbridge1$str$ptr + 2352448
+11  chromedriver                        0x0000000102bf03a4 cxxbridge1$str$ptr + 2682700
+12  chromedriver                        0x0000000102bf052c cxxbridge1$str$ptr + 2683092
+13  chromedriver                        0x0000000102bffe24 cxxbridge1$str$ptr + 2746828
+14  libsystem_pthread.dylib             0x000000018eca02e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018ec9b0fc thread_start + 8
+，定位方式: xpath, 定位元素: //span[text()="测吧测试1八爪云仓库12222"] 
+[2025-04-03 16:04:30] [INFO] [util.py]/[line: 46]/[save_source_data] 资源保存的绝对路径：/Volumes/software/warehouse/web_automation/taover_po/images/20250403160430.png 
+[2025-04-03 16:04:30] [INFO] [util.py]/[line: 46]/[save_source_data] 资源保存的绝对路径：/Volumes/software/warehouse/web_automation/taover_po/page_sources/20250403160430.html 
+[2025-04-03 16:04:31] [WARNING] [error_popups.py]/[line: 16]/[run] 没有找到元素Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()="测吧测试1八爪云仓库12222"]"}
+  (Session info: chrome=134.0.6998.45); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000102c07b78 cxxbridge1$str$ptr + 2778912
+1   chromedriver                        0x0000000102c001b0 cxxbridge1$str$ptr + 2747736
+2   chromedriver                        0x0000000102755e24 cxxbridge1$string$len + 92932
+3   chromedriver                        0x000000010279d158 cxxbridge1$string$len + 384568
+4   chromedriver                        0x00000001027de500 cxxbridge1$string$len + 651744
+5   chromedriver                        0x00000001027912e4 cxxbridge1$string$len + 335812
+6   chromedriver                        0x0000000102bcdd04 cxxbridge1$str$ptr + 2541740
+7   chromedriver                        0x0000000102bd0fc8 cxxbridge1$str$ptr + 2554736
+8   chromedriver                        0x0000000102baea44 cxxbridge1$str$ptr + 2414060
+9   chromedriver                        0x0000000102bd1828 cxxbridge1$str$ptr + 2556880
+10  chromedriver                        0x0000000102b9f998 cxxbridge1$str$ptr + 2352448
+11  chromedriver                        0x0000000102bf03a4 cxxbridge1$str$ptr + 2682700
+12  chromedriver                        0x0000000102bf052c cxxbridge1$str$ptr + 2683092
+13  chromedriver                        0x0000000102bffe24 cxxbridge1$str$ptr + 2746828
+14  libsystem_pthread.dylib             0x000000018eca02e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018ec9b0fc thread_start + 8
+，定位方式: xpath, 定位元素: //span[text()="测吧测试1八爪云仓库12222"] 
+[2025-04-03 16:04:31] [INFO] [util.py]/[line: 46]/[save_source_data] 资源保存的绝对路径：/Volumes/software/warehouse/web_automation/taover_po/images/20250403160431.png 
+[2025-04-03 16:04:32] [INFO] [util.py]/[line: 46]/[save_source_data] 资源保存的绝对路径：/Volumes/software/warehouse/web_automation/taover_po/page_sources/20250403160432.html 
+[2025-04-03 16:04:32] [INFO] [error_popups.py]/[line: 11]/[run] 定位方式: xpath, 定位元素: //span[text()="测吧测试1八爪云仓库12222"] 
+[2025-04-03 16:04:52] [WARNING] [error_popups.py]/[line: 16]/[run] 没有找到元素Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()="测吧测试1八爪云仓库12222"]"}
+  (Session info: chrome=134.0.6998.45); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000102c07b78 cxxbridge1$str$ptr + 2778912
+1   chromedriver                        0x0000000102c001b0 cxxbridge1$str$ptr + 2747736
+2   chromedriver                        0x0000000102755e24 cxxbridge1$string$len + 92932
+3   chromedriver                        0x000000010279d158 cxxbridge1$string$len + 384568
+4   chromedriver                        0x00000001027de500 cxxbridge1$string$len + 651744
+5   chromedriver                        0x00000001027912e4 cxxbridge1$string$len + 335812
+6   chromedriver                        0x0000000102bcdd04 cxxbridge1$str$ptr + 2541740
+7   chromedriver                        0x0000000102bd0fc8 cxxbridge1$str$ptr + 2554736
+8   chromedriver                        0x0000000102baea44 cxxbridge1$str$ptr + 2414060
+9   chromedriver                        0x0000000102bd1828 cxxbridge1$str$ptr + 2556880
+10  chromedriver                        0x0000000102b9f998 cxxbridge1$str$ptr + 2352448
+11  chromedriver                        0x0000000102bf03a4 cxxbridge1$str$ptr + 2682700
+12  chromedriver                        0x0000000102bf052c cxxbridge1$str$ptr + 2683092
+13  chromedriver                        0x0000000102bffe24 cxxbridge1$str$ptr + 2746828
+14  libsystem_pthread.dylib             0x000000018eca02e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018ec9b0fc thread_start + 8
+，定位方式: xpath, 定位元素: //span[text()="测吧测试1八爪云仓库12222"] 
+[2025-04-03 16:04:52] [INFO] [util.py]/[line: 46]/[save_source_data] 资源保存的绝对路径：/Volumes/software/warehouse/web_automation/taover_po/images/20250403160452.png 
+[2025-04-03 16:04:52] [INFO] [util.py]/[line: 46]/[save_source_data] 资源保存的绝对路径：/Volumes/software/warehouse/web_automation/taover_po/page_sources/20250403160452.html 
+[2025-04-03 16:04:53] [INFO] [base_page.py]/[line: 145]/[quit] 结束调用........ 
+[2025-04-03 16:43:08] [INFO] [util.py]/[line: 12]/[get_file_path] 文件的绝对路径是：/Volumes/software/warehouse/web_automation/taover_po/data/add_goods.yaml 
+[2025-04-03 16:43:08] [INFO] [util.py]/[line: 12]/[get_file_path] 文件的绝对路径是：/Volumes/software/warehouse/web_automation/taover_po/data/search_goods.yaml 
+[2025-04-03 16:43:08] [INFO] [util.py]/[line: 12]/[get_file_path] 文件的绝对路径是：/Volumes/software/warehouse/web_automation/taover_po/data/modify_goods.yaml 
+[2025-04-03 16:43:08] [INFO] [util.py]/[line: 12]/[get_file_path] 文件的绝对路径是：/Volumes/software/warehouse/web_automation/taover_po/data/delete_goods.yaml 
+[2025-04-03 16:43:18] [INFO] [base_page.py]/[line: 34]/[__init__] 添加cookies信息 
+[2025-04-03 16:43:18] [INFO] [base_page.py]/[line: 36]/[__init__] 开始调用...... 
+[2025-04-03 16:43:18] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //span[text()="商品管理"] 
+[2025-04-03 16:43:18] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //span[text()="商品管理"] 
+[2025-04-03 16:43:20] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //span[text()="商品列表"] 
+[2025-04-03 16:43:20] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //span[text()="商品列表"] 
+[2025-04-03 16:43:20] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: (//span[text()="添加"])[1] 
+[2025-04-03 16:43:20] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: (//span[text()="添加"])[1] 
+[2025-04-03 16:43:23] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //label[@for="goodsName"]/following-sibling::*/*/* 
+[2025-04-03 16:43:23] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //label[@for="goodsName"]/following-sibling::*/*/* 
+[2025-04-03 16:43:23] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //label[@for="goodsName"]/following-sibling::*/*/* 
+[2025-04-03 16:43:23] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: css selector, 定位元素: .el-select.inputWidth input 
+[2025-04-03 16:43:23] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: css selector, 定位元素: .el-select.inputWidth input 
+[2025-04-03 16:43:23] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //span[text()="测吧测试1八爪云仓库12222"] 
+[2025-04-03 16:43:23] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //span[text()="测吧测试1八爪云仓库12222"] 
+[2025-04-03 16:43:43] [WARNING] [error_popups.py]/[line: 16]/[run] 没有找到元素Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()="测吧测试1八爪云仓库12222"]"}
+  (Session info: chrome=134.0.6998.45); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001010a3b78 cxxbridge1$str$ptr + 2778912
+1   chromedriver                        0x000000010109c1b0 cxxbridge1$str$ptr + 2747736
+2   chromedriver                        0x0000000100bf1e24 cxxbridge1$string$len + 92932
+3   chromedriver                        0x0000000100c39158 cxxbridge1$string$len + 384568
+4   chromedriver                        0x0000000100c7a500 cxxbridge1$string$len + 651744
+5   chromedriver                        0x0000000100c2d2e4 cxxbridge1$string$len + 335812
+6   chromedriver                        0x0000000101069d04 cxxbridge1$str$ptr + 2541740
+7   chromedriver                        0x000000010106cfc8 cxxbridge1$str$ptr + 2554736
+8   chromedriver                        0x000000010104aa44 cxxbridge1$str$ptr + 2414060
+9   chromedriver                        0x000000010106d828 cxxbridge1$str$ptr + 2556880
+10  chromedriver                        0x000000010103b998 cxxbridge1$str$ptr + 2352448
+11  chromedriver                        0x000000010108c3a4 cxxbridge1$str$ptr + 2682700
+12  chromedriver                        0x000000010108c52c cxxbridge1$str$ptr + 2683092
+13  chromedriver                        0x000000010109be24 cxxbridge1$str$ptr + 2746828
+14  libsystem_pthread.dylib             0x000000018eca02e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018ec9b0fc thread_start + 8
+，定位方式: xpath, 定位元素: //span[text()="测吧测试1八爪云仓库12222"] 
+[2025-04-03 16:43:43] [INFO] [util.py]/[line: 46]/[save_source_data] 资源保存的绝对路径：/Volumes/software/warehouse/web_automation/taover_po/images/20250403164343.png 
+[2025-04-03 16:43:43] [INFO] [util.py]/[line: 46]/[save_source_data] 资源保存的绝对路径：/Volumes/software/warehouse/web_automation/taover_po/page_sources/20250403164343.html 
+[2025-04-03 16:43:44] [WARNING] [error_popups.py]/[line: 16]/[run] 没有找到元素Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()="测吧测试1八爪云仓库12222"]"}
+  (Session info: chrome=134.0.6998.45); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001010a3b78 cxxbridge1$str$ptr + 2778912
+1   chromedriver                        0x000000010109c1b0 cxxbridge1$str$ptr + 2747736
+2   chromedriver                        0x0000000100bf1e24 cxxbridge1$string$len + 92932
+3   chromedriver                        0x0000000100c39158 cxxbridge1$string$len + 384568
+4   chromedriver                        0x0000000100c7a500 cxxbridge1$string$len + 651744
+5   chromedriver                        0x0000000100c2d2e4 cxxbridge1$string$len + 335812
+6   chromedriver                        0x0000000101069d04 cxxbridge1$str$ptr + 2541740
+7   chromedriver                        0x000000010106cfc8 cxxbridge1$str$ptr + 2554736
+8   chromedriver                        0x000000010104aa44 cxxbridge1$str$ptr + 2414060
+9   chromedriver                        0x000000010106d828 cxxbridge1$str$ptr + 2556880
+10  chromedriver                        0x000000010103b998 cxxbridge1$str$ptr + 2352448
+11  chromedriver                        0x000000010108c3a4 cxxbridge1$str$ptr + 2682700
+12  chromedriver                        0x000000010108c52c cxxbridge1$str$ptr + 2683092
+13  chromedriver                        0x000000010109be24 cxxbridge1$str$ptr + 2746828
+14  libsystem_pthread.dylib             0x000000018eca02e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018ec9b0fc thread_start + 8
+，定位方式: xpath, 定位元素: //span[text()="测吧测试1八爪云仓库12222"] 
+[2025-04-03 16:43:44] [INFO] [util.py]/[line: 46]/[save_source_data] 资源保存的绝对路径：/Volumes/software/warehouse/web_automation/taover_po/images/20250403164344.png 
+[2025-04-03 16:43:44] [INFO] [util.py]/[line: 46]/[save_source_data] 资源保存的绝对路径：/Volumes/software/warehouse/web_automation/taover_po/page_sources/20250403164344.html 
+[2025-04-03 16:43:44] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //span[text()="测吧测试1八爪云仓库12222"] 
+[2025-04-03 16:44:04] [WARNING] [error_popups.py]/[line: 16]/[run] 没有找到元素Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()="测吧测试1八爪云仓库12222"]"}
+  (Session info: chrome=134.0.6998.45); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001010a3b78 cxxbridge1$str$ptr + 2778912
+1   chromedriver                        0x000000010109c1b0 cxxbridge1$str$ptr + 2747736
+2   chromedriver                        0x0000000100bf1e24 cxxbridge1$string$len + 92932
+3   chromedriver                        0x0000000100c39158 cxxbridge1$string$len + 384568
+4   chromedriver                        0x0000000100c7a500 cxxbridge1$string$len + 651744
+5   chromedriver                        0x0000000100c2d2e4 cxxbridge1$string$len + 335812
+6   chromedriver                        0x0000000101069d04 cxxbridge1$str$ptr + 2541740
+7   chromedriver                        0x000000010106cfc8 cxxbridge1$str$ptr + 2554736
+8   chromedriver                        0x000000010104aa44 cxxbridge1$str$ptr + 2414060
+9   chromedriver                        0x000000010106d828 cxxbridge1$str$ptr + 2556880
+10  chromedriver                        0x000000010103b998 cxxbridge1$str$ptr + 2352448
+11  chromedriver                        0x000000010108c3a4 cxxbridge1$str$ptr + 2682700
+12  chromedriver                        0x000000010108c52c cxxbridge1$str$ptr + 2683092
+13  chromedriver                        0x000000010109be24 cxxbridge1$str$ptr + 2746828
+14  libsystem_pthread.dylib             0x000000018eca02e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018ec9b0fc thread_start + 8
+，定位方式: xpath, 定位元素: //span[text()="测吧测试1八爪云仓库12222"] 
+[2025-04-03 16:44:04] [INFO] [util.py]/[line: 46]/[save_source_data] 资源保存的绝对路径：/Volumes/software/warehouse/web_automation/taover_po/images/20250403164404.png 
+[2025-04-03 16:44:05] [INFO] [util.py]/[line: 46]/[save_source_data] 资源保存的绝对路径：/Volumes/software/warehouse/web_automation/taover_po/page_sources/20250403164405.html 
+[2025-04-03 16:44:06] [INFO] [base_page.py]/[line: 159]/[quit] 结束调用........ 
+[2025-04-03 16:45:23] [INFO] [util.py]/[line: 12]/[get_file_path] 文件的绝对路径是：/Volumes/software/warehouse/web_automation/taover_po/data/add_goods.yaml 
+[2025-04-03 16:45:23] [INFO] [util.py]/[line: 12]/[get_file_path] 文件的绝对路径是：/Volumes/software/warehouse/web_automation/taover_po/data/search_goods.yaml 
+[2025-04-03 16:45:23] [INFO] [util.py]/[line: 12]/[get_file_path] 文件的绝对路径是：/Volumes/software/warehouse/web_automation/taover_po/data/modify_goods.yaml 
+[2025-04-03 16:45:23] [INFO] [util.py]/[line: 12]/[get_file_path] 文件的绝对路径是：/Volumes/software/warehouse/web_automation/taover_po/data/delete_goods.yaml 
+[2025-04-03 16:45:29] [INFO] [base_page.py]/[line: 34]/[__init__] 添加cookies信息 
+[2025-04-03 16:45:29] [INFO] [base_page.py]/[line: 36]/[__init__] 开始调用...... 
+[2025-04-03 16:45:29] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //span[text()="商品管理"] 
+[2025-04-03 16:45:29] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //span[text()="商品管理"] 
+[2025-04-03 16:45:30] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //span[text()="商品列表"] 
+[2025-04-03 16:45:30] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //span[text()="商品列表"] 
+[2025-04-03 16:45:30] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: (//span[text()="添加"])[1] 
+[2025-04-03 16:45:30] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: (//span[text()="添加"])[1] 
+[2025-04-03 16:45:32] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //label[@for="goodsName"]/following-sibling::*/*/* 
+[2025-04-03 16:45:32] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //label[@for="goodsName"]/following-sibling::*/*/* 
+[2025-04-03 16:45:32] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //label[@for="goodsName"]/following-sibling::*/*/* 
+[2025-04-03 16:45:33] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: css selector, 定位元素: .el-select.inputWidth input 
+[2025-04-03 16:45:33] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: css selector, 定位元素: .el-select.inputWidth input 
+[2025-04-03 16:45:33] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //span[text()="测吧测试1八爪云仓库1"] 
+[2025-04-03 16:45:33] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //span[text()="测吧测试1八爪云仓库1"] 
+[2025-04-03 16:45:34] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: css selector, 定位元素: .el-input__inner 
+[2025-04-03 16:45:34] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: css selector, 定位元素: .el-input__inner 
+[2025-04-03 16:45:34] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //span[text()="提交"] 
+[2025-04-03 16:45:34] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //span[text()="提交"] 
+[2025-04-03 16:45:35] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //p[text()="创建成功"] 
+[2025-04-03 16:45:35] [INFO] [util.py]/[line: 46]/[save_source_data] 资源保存的绝对路径：/Volumes/software/warehouse/web_automation/taover_po/images/20250403164535.png 
+[2025-04-03 16:45:35] [INFO] [shop_list_page.py]/[line: 38]/[verify_add_shop_pass] 添加商品成功，截图路径：/Volumes/software/warehouse/web_automation/taover_po/images/20250403164535.png 
+[2025-04-03 16:45:35] [INFO] [base_page.py]/[line: 159]/[quit] 结束调用........ 
+[2025-04-03 16:45:54] [INFO] [util.py]/[line: 12]/[get_file_path] 文件的绝对路径是：/Volumes/software/warehouse/web_automation/taover_po/data/add_goods.yaml 
+[2025-04-03 16:45:54] [INFO] [util.py]/[line: 12]/[get_file_path] 文件的绝对路径是：/Volumes/software/warehouse/web_automation/taover_po/data/search_goods.yaml 
+[2025-04-03 16:45:54] [INFO] [util.py]/[line: 12]/[get_file_path] 文件的绝对路径是：/Volumes/software/warehouse/web_automation/taover_po/data/modify_goods.yaml 
+[2025-04-03 16:45:54] [INFO] [util.py]/[line: 12]/[get_file_path] 文件的绝对路径是：/Volumes/software/warehouse/web_automation/taover_po/data/delete_goods.yaml 
+[2025-04-03 16:45:59] [INFO] [base_page.py]/[line: 34]/[__init__] 添加cookies信息 
+[2025-04-03 16:45:59] [INFO] [base_page.py]/[line: 36]/[__init__] 开始调用...... 
+[2025-04-03 16:45:59] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //span[text()="商品管理"] 
+[2025-04-03 16:45:59] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //span[text()="商品管理"] 
+[2025-04-03 16:46:00] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //span[text()="商品列表"] 
+[2025-04-03 16:46:00] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //span[text()="商品列表"] 
+[2025-04-03 16:46:00] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: (//span[text()="添加"])[1] 
+[2025-04-03 16:46:00] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: (//span[text()="添加"])[1] 
+[2025-04-03 16:46:02] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //label[@for="goodsName"]/following-sibling::*/*/* 
+[2025-04-03 16:46:02] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //label[@for="goodsName"]/following-sibling::*/*/* 
+[2025-04-03 16:46:02] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //label[@for="goodsName"]/following-sibling::*/*/* 
+[2025-04-03 16:46:02] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: css selector, 定位元素: .el-select.inputWidth input 
+[2025-04-03 16:46:02] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: css selector, 定位元素: .el-select.inputWidth input 
+[2025-04-03 16:46:02] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //span[text()="测吧测试1八爪云仓库1"] 
+[2025-04-03 16:46:02] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //span[text()="测吧测试1八爪云仓库1"] 
+[2025-04-03 16:46:03] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: css selector, 定位元素: .el-input__inner 
+[2025-04-03 16:46:03] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: css selector, 定位元素: .el-input__inner 
+[2025-04-03 16:46:03] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //span[text()="提交"] 
+[2025-04-03 16:46:03] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //span[text()="提交"] 
+[2025-04-03 16:46:04] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //p[text()="创建成功"] 
+[2025-04-03 16:46:04] [INFO] [util.py]/[line: 46]/[save_source_data] 资源保存的绝对路径：/Volumes/software/warehouse/web_automation/taover_po/images/20250403164604.png 
+[2025-04-03 16:46:04] [INFO] [shop_list_page.py]/[line: 38]/[verify_add_shop_pass] 添加商品成功，截图路径：/Volumes/software/warehouse/web_automation/taover_po/images/20250403164604.png 
+[2025-04-03 16:46:04] [INFO] [base_page.py]/[line: 159]/[quit] 结束调用........ 
+[2025-04-03 16:46:09] [INFO] [base_page.py]/[line: 34]/[__init__] 添加cookies信息 
+[2025-04-03 16:46:09] [INFO] [base_page.py]/[line: 36]/[__init__] 开始调用...... 
+[2025-04-03 16:46:09] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //span[text()="商品管理"] 
+[2025-04-03 16:46:09] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //span[text()="商品管理"] 
+[2025-04-03 16:46:10] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //span[text()="商品列表"] 
+[2025-04-03 16:46:10] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //span[text()="商品列表"] 
+[2025-04-03 16:46:11] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //input[@placeholder="请输入商品名称"] 
+[2025-04-03 16:46:11] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //input[@placeholder="请输入商品名称"] 
+[2025-04-03 16:46:11] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //input[@placeholder="请输入商品名称"] 
+[2025-04-03 16:46:11] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //span[text()="查询"] 
+[2025-04-03 16:46:11] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //span[text()="查询"] 
+[2025-04-03 16:46:12] [WARNING] [error_popups.py]/[line: 16]/[run] 没有找到元素Message: element click intercepted: Element <span>...</span> is not clickable at point (286, 394). Other element would receive the click: <div data-v-2bb29ffc="" class="el-row">...</div>
+  (Session info: chrome=134.0.6998.45)
+Stacktrace:
+0   chromedriver                        0x0000000104f73b78 cxxbridge1$str$ptr + 2778912
+1   chromedriver                        0x0000000104f6c1b0 cxxbridge1$str$ptr + 2747736
+2   chromedriver                        0x0000000104ac1e24 cxxbridge1$string$len + 92932
+3   chromedriver                        0x0000000104b0ebd0 cxxbridge1$string$len + 407728
+4   chromedriver                        0x0000000104b0d160 cxxbridge1$string$len + 400960
+5   chromedriver                        0x0000000104b0af74 cxxbridge1$string$len + 392276
+6   chromedriver                        0x0000000104b0a370 cxxbridge1$string$len + 389200
+7   chromedriver                        0x0000000104afed74 cxxbridge1$string$len + 342612
+8   chromedriver                        0x0000000104afe800 cxxbridge1$string$len + 341216
+9   chromedriver                        0x0000000104b4a500 cxxbridge1$string$len + 651744
+10  chromedriver                        0x0000000104afd2e4 cxxbridge1$string$len + 335812
+11  chromedriver                        0x0000000104f39d04 cxxbridge1$str$ptr + 2541740
+12  chromedriver                        0x0000000104f3cfc8 cxxbridge1$str$ptr + 2554736
+13  chromedriver                        0x0000000104f1aa44 cxxbridge1$str$ptr + 2414060
+14  chromedriver                        0x0000000104f3d828 cxxbridge1$str$ptr + 2556880
+15  chromedriver                        0x0000000104f0b998 cxxbridge1$str$ptr + 2352448
+16  chromedriver                        0x0000000104f5c3a4 cxxbridge1$str$ptr + 2682700
+17  chromedriver                        0x0000000104f5c52c cxxbridge1$str$ptr + 2683092
+18  chromedriver                        0x0000000104f6be24 cxxbridge1$str$ptr + 2746828
+19  libsystem_pthread.dylib             0x000000018eca02e4 _pthread_start + 136
+20  libsystem_pthread.dylib             0x000000018ec9b0fc thread_start + 8
+，定位方式: xpath, 定位元素: //span[text()="查询"] 
+[2025-04-03 16:46:12] [INFO] [util.py]/[line: 46]/[save_source_data] 资源保存的绝对路径：/Volumes/software/warehouse/web_automation/taover_po/images/20250403164612.png 
+[2025-04-03 16:46:13] [INFO] [util.py]/[line: 46]/[save_source_data] 资源保存的绝对路径：/Volumes/software/warehouse/web_automation/taover_po/page_sources/20250403164613.html 
+[2025-04-03 16:46:13] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //span[text()="查询"] 
+[2025-04-03 16:46:14] [INFO] [base_page.py]/[line: 159]/[quit] 结束调用........ 
+[2025-04-03 16:46:19] [INFO] [base_page.py]/[line: 34]/[__init__] 添加cookies信息 
+[2025-04-03 16:46:19] [INFO] [base_page.py]/[line: 36]/[__init__] 开始调用...... 
+[2025-04-03 16:46:19] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //span[text()="商品管理"] 
+[2025-04-03 16:46:19] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //span[text()="商品管理"] 
+[2025-04-03 16:46:19] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //span[text()="商品列表"] 
+[2025-04-03 16:46:19] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //span[text()="商品列表"] 
+[2025-04-03 16:46:21] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //input[@placeholder="请输入商品名称"] 
+[2025-04-03 16:46:21] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //input[@placeholder="请输入商品名称"] 
+[2025-04-03 16:46:21] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //input[@placeholder="请输入商品名称"] 
+[2025-04-03 16:46:21] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //span[text()="查询"] 
+[2025-04-03 16:46:21] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //span[text()="查询"] 
+[2025-04-03 16:46:22] [WARNING] [error_popups.py]/[line: 16]/[run] 没有找到元素Message: element click intercepted: Element <span>...</span> is not clickable at point (286, 394). Other element would receive the click: <div data-v-2bb29ffc="" class="el-row">...</div>
+  (Session info: chrome=134.0.6998.45)
+Stacktrace:
+0   chromedriver                        0x0000000100833b78 cxxbridge1$str$ptr + 2778912
+1   chromedriver                        0x000000010082c1b0 cxxbridge1$str$ptr + 2747736
+2   chromedriver                        0x0000000100381e24 cxxbridge1$string$len + 92932
+3   chromedriver                        0x00000001003cebd0 cxxbridge1$string$len + 407728
+4   chromedriver                        0x00000001003cd160 cxxbridge1$string$len + 400960
+5   chromedriver                        0x00000001003caf74 cxxbridge1$string$len + 392276
+6   chromedriver                        0x00000001003ca370 cxxbridge1$string$len + 389200
+7   chromedriver                        0x00000001003bed74 cxxbridge1$string$len + 342612
+8   chromedriver                        0x00000001003be800 cxxbridge1$string$len + 341216
+9   chromedriver                        0x000000010040a500 cxxbridge1$string$len + 651744
+10  chromedriver                        0x00000001003bd2e4 cxxbridge1$string$len + 335812
+11  chromedriver                        0x00000001007f9d04 cxxbridge1$str$ptr + 2541740
+12  chromedriver                        0x00000001007fcfc8 cxxbridge1$str$ptr + 2554736
+13  chromedriver                        0x00000001007daa44 cxxbridge1$str$ptr + 2414060
+14  chromedriver                        0x00000001007fd828 cxxbridge1$str$ptr + 2556880
+15  chromedriver                        0x00000001007cb998 cxxbridge1$str$ptr + 2352448
+16  chromedriver                        0x000000010081c3a4 cxxbridge1$str$ptr + 2682700
+17  chromedriver                        0x000000010081c52c cxxbridge1$str$ptr + 2683092
+18  chromedriver                        0x000000010082be24 cxxbridge1$str$ptr + 2746828
+19  libsystem_pthread.dylib             0x000000018eca02e4 _pthread_start + 136
+20  libsystem_pthread.dylib             0x000000018ec9b0fc thread_start + 8
+，定位方式: xpath, 定位元素: //span[text()="查询"] 
+[2025-04-03 16:46:22] [INFO] [util.py]/[line: 46]/[save_source_data] 资源保存的绝对路径：/Volumes/software/warehouse/web_automation/taover_po/images/20250403164622.png 
+[2025-04-03 16:46:23] [INFO] [util.py]/[line: 46]/[save_source_data] 资源保存的绝对路径：/Volumes/software/warehouse/web_automation/taover_po/page_sources/20250403164623.html 
+[2025-04-03 16:46:23] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //span[text()="查询"] 
+[2025-04-03 16:46:33] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: css selector, 定位元素: .col-12 
+[2025-04-03 16:46:33] [INFO] [util.py]/[line: 46]/[save_source_data] 资源保存的绝对路径：/Volumes/software/warehouse/web_automation/taover_po/images/20250403164633.png 
+[2025-04-03 16:46:33] [INFO] [shop_list_page.py]/[line: 52]/[search_good] 查询商品成功，截图路径：/Volumes/software/warehouse/web_automation/taover_po/images/20250403164633.png 
+[2025-04-03 16:46:33] [INFO] [base_page.py]/[line: 159]/[quit] 结束调用........ 
+[2025-04-03 16:46:37] [INFO] [base_page.py]/[line: 34]/[__init__] 添加cookies信息 
+[2025-04-03 16:46:38] [INFO] [base_page.py]/[line: 36]/[__init__] 开始调用...... 
+[2025-04-03 16:46:38] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //span[text()="商品管理"] 
+[2025-04-03 16:46:38] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //span[text()="商品管理"] 
+[2025-04-03 16:46:38] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //span[text()="商品列表"] 
+[2025-04-03 16:46:38] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //span[text()="商品列表"] 
+[2025-04-03 16:46:40] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //input[@placeholder="请输入商品名称"] 
+[2025-04-03 16:46:40] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //input[@placeholder="请输入商品名称"] 
+[2025-04-03 16:46:40] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //input[@placeholder="请输入商品名称"] 
+[2025-04-03 16:46:40] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //span[text()="查询"] 
+[2025-04-03 16:46:40] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //span[text()="查询"] 
+[2025-04-03 16:46:41] [WARNING] [error_popups.py]/[line: 16]/[run] 没有找到元素Message: element click intercepted: Element <span>...</span> is not clickable at point (287, 394). Other element would receive the click: <div data-v-2bb29ffc="" class="el-row">...</div>
+  (Session info: chrome=134.0.6998.45)
+Stacktrace:
+0   chromedriver                        0x000000010496bb78 cxxbridge1$str$ptr + 2778912
+1   chromedriver                        0x00000001049641b0 cxxbridge1$str$ptr + 2747736
+2   chromedriver                        0x00000001044b9e24 cxxbridge1$string$len + 92932
+3   chromedriver                        0x0000000104506bd0 cxxbridge1$string$len + 407728
+4   chromedriver                        0x0000000104505160 cxxbridge1$string$len + 400960
+5   chromedriver                        0x0000000104502f74 cxxbridge1$string$len + 392276
+6   chromedriver                        0x0000000104502370 cxxbridge1$string$len + 389200
+7   chromedriver                        0x00000001044f6d74 cxxbridge1$string$len + 342612
+8   chromedriver                        0x00000001044f6800 cxxbridge1$string$len + 341216
+9   chromedriver                        0x0000000104542500 cxxbridge1$string$len + 651744
+10  chromedriver                        0x00000001044f52e4 cxxbridge1$string$len + 335812
+11  chromedriver                        0x0000000104931d04 cxxbridge1$str$ptr + 2541740
+12  chromedriver                        0x0000000104934fc8 cxxbridge1$str$ptr + 2554736
+13  chromedriver                        0x0000000104912a44 cxxbridge1$str$ptr + 2414060
+14  chromedriver                        0x0000000104935828 cxxbridge1$str$ptr + 2556880
+15  chromedriver                        0x0000000104903998 cxxbridge1$str$ptr + 2352448
+16  chromedriver                        0x00000001049543a4 cxxbridge1$str$ptr + 2682700
+17  chromedriver                        0x000000010495452c cxxbridge1$str$ptr + 2683092
+18  chromedriver                        0x0000000104963e24 cxxbridge1$str$ptr + 2746828
+19  libsystem_pthread.dylib             0x000000018eca02e4 _pthread_start + 136
+20  libsystem_pthread.dylib             0x000000018ec9b0fc thread_start + 8
+，定位方式: xpath, 定位元素: //span[text()="查询"] 
+[2025-04-03 16:46:41] [INFO] [util.py]/[line: 46]/[save_source_data] 资源保存的绝对路径：/Volumes/software/warehouse/web_automation/taover_po/images/20250403164641.png 
+[2025-04-03 16:46:41] [INFO] [util.py]/[line: 46]/[save_source_data] 资源保存的绝对路径：/Volumes/software/warehouse/web_automation/taover_po/page_sources/20250403164641.html 
+[2025-04-03 16:46:41] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //span[text()="查询"] 
+[2025-04-03 16:46:47] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: css selector, 定位元素: .el-icon-close.inline-block.absolute 
+[2025-04-03 16:46:47] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: css selector, 定位元素: .el-icon-close.inline-block.absolute 
+[2025-04-03 16:46:47] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //span[text()="修改"] 
+[2025-04-03 16:46:47] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //span[text()="修改"] 
+[2025-04-03 16:46:52] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: css selector, 定位元素: .el-form-item.mt3 div input 
+[2025-04-03 16:46:52] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: css selector, 定位元素: .el-form-item.mt3 div input 
+[2025-04-03 16:46:53] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: css selector, 定位元素: .el-form-item.mt3 div input 
+[2025-04-03 16:46:53] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //span[text()="提交"] 
+[2025-04-03 16:46:53] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //span[text()="提交"] 
+[2025-04-03 16:46:53] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //p[text()="修改成功"] 
+[2025-04-03 16:46:53] [INFO] [util.py]/[line: 46]/[save_source_data] 资源保存的绝对路径：/Volumes/software/warehouse/web_automation/taover_po/images/20250403164653.png 
+[2025-04-03 16:46:54] [INFO] [shop_list_page.py]/[line: 83]/[verify_modify_shop_pass] 修改商品成功，截图路径：/Volumes/software/warehouse/web_automation/taover_po/images/20250403164653.png 
+[2025-04-03 16:46:54] [INFO] [base_page.py]/[line: 159]/[quit] 结束调用........ 
+[2025-04-03 16:47:00] [INFO] [base_page.py]/[line: 34]/[__init__] 添加cookies信息 
+[2025-04-03 16:47:00] [INFO] [base_page.py]/[line: 36]/[__init__] 开始调用...... 
+[2025-04-03 16:47:00] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //span[text()="商品管理"] 
+[2025-04-03 16:47:00] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //span[text()="商品管理"] 
+[2025-04-03 16:47:01] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //span[text()="商品列表"] 
+[2025-04-03 16:47:01] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //span[text()="商品列表"] 
+[2025-04-03 16:47:03] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //input[@placeholder="请输入商品名称"] 
+[2025-04-03 16:47:03] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //input[@placeholder="请输入商品名称"] 
+[2025-04-03 16:47:03] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //input[@placeholder="请输入商品名称"] 
+[2025-04-03 16:47:04] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //span[text()="查询"] 
+[2025-04-03 16:47:04] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //span[text()="查询"] 
+[2025-04-03 16:47:09] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //span[text()="下架"] 
+[2025-04-03 16:47:09] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //span[text()="下架"] 
+[2025-04-03 16:47:09] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //span[text()="提交"] 
+[2025-04-03 16:47:09] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //span[text()="提交"] 
+[2025-04-03 16:47:11] [INFO] [error_popups.py]/[line: 11]/[run] 查找元素定位方式: xpath, 定位元素: //p[text()="操作成功"] 
+[2025-04-03 16:47:11] [INFO] [util.py]/[line: 46]/[save_source_data] 资源保存的绝对路径：/Volumes/software/warehouse/web_automation/taover_po/images/20250403164711.png 
+[2025-04-03 16:47:11] [INFO] [shop_list_page.py]/[line: 93]/[delete_good] 删除商品成功，截图路径：/Volumes/software/warehouse/web_automation/taover_po/images/20250403164711.png 
+[2025-04-03 16:47:11] [INFO] [base_page.py]/[line: 159]/[quit] 结束调用........ 

@@ -1,0 +1,40 @@
+[32mINFO    [0m taover_po.utils.log_util:base_page.py:34 添加cookies信息
+[32mINFO    [0m taover_po.utils.log_util:base_page.py:36 开始调用......
+[32mINFO    [0m taover_po.utils.log_util:error_popups.py:11 查找元素定位方式: xpath, 定位元素: //span[text()="商品管理"]
+[32mINFO    [0m taover_po.utils.log_util:error_popups.py:11 查找元素定位方式: xpath, 定位元素: //span[text()="商品管理"]
+[32mINFO    [0m taover_po.utils.log_util:error_popups.py:11 查找元素定位方式: xpath, 定位元素: //span[text()="商品列表"]
+[32mINFO    [0m taover_po.utils.log_util:error_popups.py:11 查找元素定位方式: xpath, 定位元素: //span[text()="商品列表"]
+[32mINFO    [0m taover_po.utils.log_util:error_popups.py:11 查找元素定位方式: xpath, 定位元素: //input[@placeholder="请输入商品名称"]
+[32mINFO    [0m taover_po.utils.log_util:error_popups.py:11 查找元素定位方式: xpath, 定位元素: //input[@placeholder="请输入商品名称"]
+[32mINFO    [0m taover_po.utils.log_util:error_popups.py:11 查找元素定位方式: xpath, 定位元素: //input[@placeholder="请输入商品名称"]
+[32mINFO    [0m taover_po.utils.log_util:error_popups.py:11 查找元素定位方式: xpath, 定位元素: //span[text()="查询"]
+[32mINFO    [0m taover_po.utils.log_util:error_popups.py:11 查找元素定位方式: xpath, 定位元素: //span[text()="查询"]
+[33mWARNING [0m taover_po.utils.log_util:error_popups.py:16 没有找到元素Message: element click intercepted: Element <span>...</span> is not clickable at point (286, 394). Other element would receive the click: <div data-v-2bb29ffc="" class="el-row">...</div>
+  (Session info: chrome=134.0.6998.45)
+Stacktrace:
+0   chromedriver                        0x0000000104f73b78 cxxbridge1$str$ptr + 2778912
+1   chromedriver                        0x0000000104f6c1b0 cxxbridge1$str$ptr + 2747736
+2   chromedriver                        0x0000000104ac1e24 cxxbridge1$string$len + 92932
+3   chromedriver                        0x0000000104b0ebd0 cxxbridge1$string$len + 407728
+4   chromedriver                        0x0000000104b0d160 cxxbridge1$string$len + 400960
+5   chromedriver                        0x0000000104b0af74 cxxbridge1$string$len + 392276
+6   chromedriver                        0x0000000104b0a370 cxxbridge1$string$len + 389200
+7   chromedriver                        0x0000000104afed74 cxxbridge1$string$len + 342612
+8   chromedriver                        0x0000000104afe800 cxxbridge1$string$len + 341216
+9   chromedriver                        0x0000000104b4a500 cxxbridge1$string$len + 651744
+10  chromedriver                        0x0000000104afd2e4 cxxbridge1$string$len + 335812
+11  chromedriver                        0x0000000104f39d04 cxxbridge1$str$ptr + 2541740
+12  chromedriver                        0x0000000104f3cfc8 cxxbridge1$str$ptr + 2554736
+13  chromedriver                        0x0000000104f1aa44 cxxbridge1$str$ptr + 2414060
+14  chromedriver                        0x0000000104f3d828 cxxbridge1$str$ptr + 2556880
+15  chromedriver                        0x0000000104f0b998 cxxbridge1$str$ptr + 2352448
+16  chromedriver                        0x0000000104f5c3a4 cxxbridge1$str$ptr + 2682700
+17  chromedriver                        0x0000000104f5c52c cxxbridge1$str$ptr + 2683092
+18  chromedriver                        0x0000000104f6be24 cxxbridge1$str$ptr + 2746828
+19  libsystem_pthread.dylib             0x000000018eca02e4 _pthread_start + 136
+20  libsystem_pthread.dylib             0x000000018ec9b0fc thread_start + 8
+，定位方式: xpath, 定位元素: //span[text()="查询"]
+[32mINFO    [0m taover_po.utils.log_util:util.py:46 资源保存的绝对路径：/Volumes/software/warehouse/web_automation/taover_po/images/20250403164612.png
+[32mINFO    [0m taover_po.utils.log_util:util.py:46 资源保存的绝对路径：/Volumes/software/warehouse/web_automation/taover_po/page_sources/20250403164613.html
+[32mINFO    [0m taover_po.utils.log_util:error_popups.py:11 查找元素定位方式: xpath, 定位元素: //span[text()="查询"]
+[32mINFO    [0m taover_po.utils.log_util:base_page.py:159 结束调用........

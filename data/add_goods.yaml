@@ -1,0 +1,31 @@
+#商品名称
+#规格名称
+#索引
+#创建成功的信息
+add_goods:
+  - good_name: 'rt3'
+    size_name: 'rt3'
+    index: 6
+    text: '创建成功'
+
+add_all_goods:
+  - good_name: 'rt3'
+    size_name: 'rt3'
+    index: 6
+    text: '输入的数据有误'
+    cost_price: 12
+    cost_index: 8
+    amount_index: 9
+
+not_input_good_name:
+  - good_name: ''
+    size_name: 'rt3'
+    index: 6
+    text: '输入的数据有误'
+    cost_price: 12
+    cost_index: 8
+    amount_index: 9
+
+
+
+

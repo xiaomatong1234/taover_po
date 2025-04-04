@@ -1,0 +1,23 @@
+[32mINFO    [0m taover_po.utils.log_util:base_page.py:34 添加cookies信息
+[32mINFO    [0m taover_po.utils.log_util:base_page.py:36 开始调用......
+[32mINFO    [0m taover_po.utils.log_util:error_popups.py:11 查找元素定位方式: xpath, 定位元素: //span[text()="商品管理"]
+[32mINFO    [0m taover_po.utils.log_util:error_popups.py:11 查找元素定位方式: xpath, 定位元素: //span[text()="商品管理"]
+[32mINFO    [0m taover_po.utils.log_util:error_popups.py:11 查找元素定位方式: xpath, 定位元素: //span[text()="商品列表"]
+[32mINFO    [0m taover_po.utils.log_util:error_popups.py:11 查找元素定位方式: xpath, 定位元素: //span[text()="商品列表"]
+[32mINFO    [0m taover_po.utils.log_util:error_popups.py:11 查找元素定位方式: xpath, 定位元素: (//span[text()="添加"])[1]
+[32mINFO    [0m taover_po.utils.log_util:error_popups.py:11 查找元素定位方式: xpath, 定位元素: (//span[text()="添加"])[1]
+[32mINFO    [0m taover_po.utils.log_util:error_popups.py:11 查找元素定位方式: xpath, 定位元素: //label[@for="goodsName"]/following-sibling::*/*/*
+[32mINFO    [0m taover_po.utils.log_util:error_popups.py:11 查找元素定位方式: xpath, 定位元素: //label[@for="goodsName"]/following-sibling::*/*/*
+[32mINFO    [0m taover_po.utils.log_util:error_popups.py:11 查找元素定位方式: xpath, 定位元素: //label[@for="goodsName"]/following-sibling::*/*/*
+[32mINFO    [0m taover_po.utils.log_util:error_popups.py:11 查找元素定位方式: css selector, 定位元素: .el-select.inputWidth input
+[32mINFO    [0m taover_po.utils.log_util:error_popups.py:11 查找元素定位方式: css selector, 定位元素: .el-select.inputWidth input
+[32mINFO    [0m taover_po.utils.log_util:error_popups.py:11 查找元素定位方式: xpath, 定位元素: //span[text()="测吧测试1八爪云仓库1"]
+[32mINFO    [0m taover_po.utils.log_util:error_popups.py:11 查找元素定位方式: xpath, 定位元素: //span[text()="测吧测试1八爪云仓库1"]
+[32mINFO    [0m taover_po.utils.log_util:error_popups.py:11 查找元素定位方式: css selector, 定位元素: .el-input__inner
+[32mINFO    [0m taover_po.utils.log_util:error_popups.py:11 查找元素定位方式: css selector, 定位元素: .el-input__inner
+[32mINFO    [0m taover_po.utils.log_util:error_popups.py:11 查找元素定位方式: xpath, 定位元素: //span[text()="提交"]
+[32mINFO    [0m taover_po.utils.log_util:error_popups.py:11 查找元素定位方式: xpath, 定位元素: //span[text()="提交"]
+[32mINFO    [0m taover_po.utils.log_util:error_popups.py:11 查找元素定位方式: xpath, 定位元素: //p[text()="创建成功"]
+[32mINFO    [0m taover_po.utils.log_util:util.py:46 资源保存的绝对路径：/Volumes/software/warehouse/web_automation/taover_po/images/20250403164604.png
+[32mINFO    [0m taover_po.utils.log_util:shop_list_page.py:38 添加商品成功，截图路径：/Volumes/software/warehouse/web_automation/taover_po/images/20250403164604.png
+[32mINFO    [0m taover_po.utils.log_util:base_page.py:159 结束调用........
